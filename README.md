@@ -1,0 +1,2 @@
+# NewsNet
+Android Project
